@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+}
+
+h1 img {
+  width: 30.5rem;
+  margin: 1.25rem;
+}
+
+.formulario {
+  padding: 2rem;
+  margin: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 5rem;
+}
+
+.input {
+  display: block;
+  width: 14rem;
+  padding: 0.5rem;
+  margin: 0.5rem;
+}
+
+.btn {
+  display: block;
+  width: 15.4rem;
+  padding: 0.5rem;
+  margin: 0.5rem;
+}
+
+.result {
+  padding: 0.6rem;
+  border: 0.1rem solid #d8d8d8;
+  background: #fdfdfd;
+}
