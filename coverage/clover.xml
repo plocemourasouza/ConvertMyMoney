@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1629775783621" clover="3.2.0">
-  <project timestamp="1629775783621" name="All files">
+<coverage generated="1629813848954" clover="3.2.0">
+  <project timestamp="1629813848955" name="All files">
     <metrics statements="27" coveredstatements="27" conditionals="4" coveredconditionals="2" methods="8" coveredmethods="8" elements="39" coveredelements="37" complexity="0" loc="27" ncloc="27" packages="1" files="2" classes="2"/>
     <file name="api.bcb.js" path="/home/psouza/Development/devPleno/convertMyMoney/lib/api.bcb.js">
       <metrics statements="22" coveredstatements="22" conditionals="4" coveredconditionals="2" methods="6" coveredmethods="6"/>
