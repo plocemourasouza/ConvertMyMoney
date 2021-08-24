@@ -2,7 +2,9 @@
 
 <form method="GET" action="/cotacao">
   <div class="form-group formulario">
-    <input name="cotacao" class="input" type="text" placeholder="Cotação do Dólar" />
+    <label for="cotacao">Cotação</label>
+    <input name="cotacao" class="input" type="text" placeholder="Cotação do Dólar" value="<%= cotacao %>" />
+    <label for="cotacao">Quantidade</label>
     <input name="quantidade" class="input" type="text" placeholder="Valor em dólares" />
     <button class="btn">Converter!</button>
   </div>
